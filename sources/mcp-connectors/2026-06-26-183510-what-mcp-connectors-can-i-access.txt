@@ -1,0 +1,24 @@
+╭─── Claude Code v2.1.195 ─────────────────────────────────────────────────────╮
+│                                               │ Tips for getting started     │
+│                 Welcome back!                 │ Run /init to create a CLAUD… │
+│                                               │ ──────────────────────────── │
+│                   ▗ ▗   ▖ ▖                   │ What's new                   │
+│                                               │ Added `CLAUDE_CODE_DISABLE_… │
+│                     ▘▘ ▝▝                     │ Fixed hook matchers with hy… │
+│                                               │ Fixed voice dictation on ma… │
+│        qwen3.5:9b · API Usage Billing         │ /release-notes for more      │
+│   /…/AIKnowledgeAndIdeas /Obsidian-AI-Vault   │                              │
+╰──────────────────────────────────────────────────────────────────────────────╯
+
+
+ ⚠ Both ANTHROPIC_AUTH_TOKEN and /login managed key set · auth may not work as expected
+   · to use ANTHROPIC_AUTH_TOKEN: claude /logout
+   · to use /login managed key: Unset the ANTHROPIC_AUTH_TOKEN environment variable.
+
+❯ What mcp connectors can I access?                                             
+
+  Thought for 1m 6s (ctrl+o to expand)
+
+⏺ /Explore search for AI-related notes in the vault and summarize the landscape
+
+✻ Brewed for 1m 7s
